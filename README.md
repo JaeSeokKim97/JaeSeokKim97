@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lora&color=%23000000&size=40&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Jaeseok+Kim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=A2D2FF&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+JaeSeok.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
