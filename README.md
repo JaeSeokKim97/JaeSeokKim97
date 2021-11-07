@@ -5,12 +5,11 @@
 
 <br><br><br>
 
-<p>
- 
+<p> 
   <a href="wotjt7184@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wotjt7184@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- <a href="wotjt7184@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="wotjt7184@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wotjt7184@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  
+ <a href="wotjt7184@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="wotjt7184@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+   
 </p>
 
   ### 💪 Skills
@@ -24,10 +23,6 @@
     <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 </p>
 
-
-
-  
-  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JaeSeokKim97&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff" width=49.2% />
 </a>
