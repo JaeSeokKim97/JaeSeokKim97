@@ -17,4 +17,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeSeokKim97&layout=compact" width=98%/>
   </a>  
+[![Solved.ac
+wotjr4836](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 
