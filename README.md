@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaeseok Kim</h1>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi 👋, I'm Jaeseok Kim%20render&fontSize=50" />
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Code_Up](https://github.com/JaeSeokKim97/Code_Up)
@@ -21,4 +21,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeSeokKim97)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeSeokKim97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
