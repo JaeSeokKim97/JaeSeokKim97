@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=A2D2FF&size=50&center=true&vCenter=true&width=600&height=60&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+JaeSeok.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <br><br><br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JaeSeok&theme=%EC%A7%99%EC%9D%80%20%ED%8C%8C%EB%9E%91%20%EC%83%89&hide_border=%EC%A7%84%EC%8B%A4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=devpla&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff" width=49.2% />
   
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeSeokKim97)](https://github.com/anuraghazra/github-readme-stats)
