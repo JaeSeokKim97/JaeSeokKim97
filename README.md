@@ -1,12 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Garalde&color=%23000000&size=40&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Jaeseok+Kim)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [Code_Up](https://github.com/JaeSeokKim97/Code_Up)
 
-- 🌱 I’m currently learning **Python, AI, Malwa**
-
-- 👨‍💻 All of my projects are available at [https://github.com/JaeSeokKim97](https://github.com/JaeSeokKim97)
-
-- 📫 How to reach me **wotjr4836@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
