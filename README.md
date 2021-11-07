@@ -4,6 +4,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=20232A&size=50&center=true&vCenter=true&width=600&height=60&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+JaeSeok.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <br><br><br>
+ - 🔭 I’m currently working on [Code_Up](https://github.com/JaeSeokKim97/Code_Up)
+
+- 🌱 I’m currently learning **Python, AI, Malwa**
+
+- 👨‍💻 All of my projects are available at [https://github.com/JaeSeokKim97](https://github.com/JaeSeokKim97)
+
+- 📫 How to reach me **wotjr4836@naver.com**
+  
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JaeSeokKim97&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff" width=49.2% />
 </a>
@@ -14,9 +23,6 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=JaeSeokKim97&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeSeokKim97&layout=compact" width=49.2%/>
-</a>  
 
 
 
