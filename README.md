@@ -1,5 +1,3 @@
-## Transparent <a id="transparent">
-
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=fffff&text=Hi 👋, I'm Jaeseok Kim&height=150&fontSize=60&desc=Nice%20to%20meet%20you&descAlignY=75&descAlign=60)
 
 
