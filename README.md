@@ -17,7 +17,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeSeokKim97&layout=compact" width=49.2%/>
 </a>  
-<a>
+<a width=49.2%>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/a7184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a7184" height="30" width="40" /></a>
