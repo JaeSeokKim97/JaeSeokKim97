@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=fffff&text=Hi 👋, I'm Jaeseok Kim&height=150&fontSize=60&desc=Nice%20to%20meet%20you&descAlignY=75&descAlign=60)
 
