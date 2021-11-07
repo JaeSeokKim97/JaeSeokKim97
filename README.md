@@ -6,8 +6,8 @@
 <br><br><br>
 
 <p> 
-  <a href="mailto:wotjr4836@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=wotjr4836@naver.com&logoColor=white"/></a>
-  <a href="mailto:wotjt7184@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=wotjt7184@gmail.com&logoColor=white"/></a>
+  <a href="mailto:wotjr4836@naver.com" target="_blank"><img src="https://img.shields.io/badge/wotjr4836@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <a href="mailto:wotjt7184@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wotjt7184@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <a href="https://fb.com/a7184" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
   <a href="https://instagram.com/_js_ok" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
    
