@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=_#B897FF&height=300&section=header&text=Hi 👋, I'm Jaeseok Kim%20render&fontSize=50" />
-<h3 align="center">A passionate frontend developer from India</h3>
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=fffff&text=Hi 👋, I'm Jaeseok Kim&height=150&fontSize=60&desc=Nice%20to%20meet%20you&descAlignY=75&descAlign=60)
+
 
 - 🔭 I’m currently working on [Code_Up](https://github.com/JaeSeokKim97/Code_Up)
 
