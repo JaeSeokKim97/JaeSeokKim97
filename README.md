@@ -4,15 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=A2D2FF&size=50&center=true&vCenter=true&width=600&height=60&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+JaeSeok.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <br><br><br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=devpla&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff" width=49.2% />
-</a>
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=devpla&theme=react&ring=C691E94D&fire=C691E9&sideNums=C691E9&currStreakNum=C691E9&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=E3E3E3A8&hide_border=true" width=49.2% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=devpla&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
-</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JaeSeok&theme=%EC%A7%99%EC%9D%80%20%ED%8C%8C%EB%9E%91%20%EC%83%89&hide_border=%EC%A7%84%EC%8B%A4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeSeokKim97)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeSeokKim97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
