@@ -19,8 +19,15 @@
 </a>  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeSeokKim97&layout=compact" width=49.2%/>
-  </a>  
+<- 🔭 I’m currently working on [Code_Up](https://github.com/JaeSeokKim97/Code_Up)
+
+- 🌱 I’m currently learning **Python, AI, Malwa**
+
+- 👨‍💻 All of my projects are available at [https://github.com/JaeSeokKim97](https://github.com/JaeSeokKim97)
+
+- 📫 How to reach me **wotjr4836@naver.com**
+ width=49.2%/>
+</a>  
 
 
 
