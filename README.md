@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi 👋, I'm Jaeseok Kim%20render&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=_#B897FF&height=300&section=header&text=Hi 👋, I'm Jaeseok Kim%20render&fontSize=50" />
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Code_Up](https://github.com/JaeSeokKim97/Code_Up)
