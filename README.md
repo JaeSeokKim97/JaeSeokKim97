@@ -14,8 +14,6 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=JaeSeokKim97&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
 </a>
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeSeokKim97)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeSeokKim97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
