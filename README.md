@@ -7,8 +7,8 @@
 
 <p> 
   <a href="wotjt7184@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wotjt7184@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- <a href="wotjt7184@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-  <a href="wotjt7184@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+ <a href="https://fb.com/a7184" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/_js_ok" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
    
 </p>
 
