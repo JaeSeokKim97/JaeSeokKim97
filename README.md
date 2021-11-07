@@ -4,13 +4,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=20232A&size=50&center=true&vCenter=true&width=600&height=60&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+JaeSeok.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <br><br><br>
- - 🔭 I’m currently working on [Code_Up](https://github.com/JaeSeokKim97/Code_Up)
+🔭 I’m currently working on [Code_Up](https://github.com/JaeSeokKim97/Code_Up)
 
-- 🌱 I’m currently learning **Python, AI, Malwa**
+🌱 I’m currently learning **Python, AI, Malwa**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JaeSeokKim97](https://github.com/JaeSeokKim97)
+👨‍💻 All of my projects are available at [https://github.com/JaeSeokKim97](https://github.com/JaeSeokKim97)
 
-- 📫 How to reach me **wotjr4836@naver.com**
+ 📫 How to reach me **wotjr4836@naver.com**
   
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
