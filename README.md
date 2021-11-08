@@ -34,7 +34,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=JaeSeokKim97&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
 </a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D446C&title_bg=%2320232A&icon=angellist.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%JaeSeokKim97%2Fhit-counter&count_bg=%233D446C&title_bg=%2320232A&icon=angellist.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
