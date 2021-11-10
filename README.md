@@ -5,7 +5,7 @@
 
 <br><br><br>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeSeokKim97&count_bg=%2320232A&title_bg=%23C691E9&icon=angellist.svg&icon_color=%23FFFDFD&title=Welcome&edge_flat=false width=49.2% )](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeSeokKim97&count_bg=%2320232A&title_bg=%23C691E9&icon=angellist.svg&icon_color=%23FFFDFD&title=Welcome&edge_flat=false  )](https://hits.seeyoufarm.com)
   
 <p> 
   <a href="mailto:wotjr4836@naver.com" target="_blank"><img src="https://img.shields.io/badge/wotjr4836@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
