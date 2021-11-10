@@ -39,14 +39,5 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-**I Mostly Code in Swift** 
 
-```text
-Swift                    15 repos            ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Vue                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.27%
-
-```
 
