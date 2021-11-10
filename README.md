@@ -25,7 +25,16 @@
     <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
     <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 </p>
+  
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Python   4 hrs 11 mins   █████████████████████████   100.00 % 
+```
+<!--END_SECTION:waka-->
 
+  
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JaeSeokKim97&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff" width=49.2% />
 </a>
@@ -38,12 +47,6 @@
 
   
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-Python   4 hrs 11 mins   █████████████████████████   100.00 % 
-```
-<!--END_SECTION:waka-->
 
   
 
