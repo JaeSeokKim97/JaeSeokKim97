@@ -35,7 +35,9 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=JaeSeokKim97&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
 </a>
-<br><br>
+
+  
+
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
