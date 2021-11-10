@@ -27,7 +27,7 @@
   <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
 </p>
  <p>
- <img alt="scikit-learn" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+ <img alt="scikit-learn" src ="https://img.shields.io/badge/scikit-learn-FF6F00.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
    <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   </p> 
   
