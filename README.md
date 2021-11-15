@@ -45,6 +45,10 @@
 Python     9 hrs 19 mins   ████████████████████████▒   97.16 % 
 HTML       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+SHOW_DAYS_OF_WEEK : "TRUE"
+SHOW_PROJECTS : "TRUE"
+SHOW_EDITORS : "TRUE"
+SHOW_LANGUAGE_PER_REPO : "TRUE"  
 ```
 <!--END_SECTION:waka-->
 
