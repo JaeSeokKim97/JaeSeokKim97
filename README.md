@@ -39,18 +39,25 @@
      <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
   </p>  
   
-📊 **Weekly development breakdown**
+⌚︎ Timezone: Asia/Seoul
+
 <!--START_SECTION:waka-->
 ```text
+ ⌚︎ Timezone: Asia/Seoul
+  
+💬 프로그래밍 언어들:  
 Python     9 hrs 19 mins   ████████████████████████▒   97.16 % 
 HTML       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+  
+🔥 에디터들:   
+  
+
+💻 운영 체제들:   
 ```
 <!--END_SECTION:waka-->
 
- <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
-  
+
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JaeSeokKim97&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff" width=49.2% />
