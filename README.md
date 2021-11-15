@@ -38,8 +38,8 @@
      <img alt="Visual Studio" src ="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=white"/>
      <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
   </p>  
+</div>
 
-⌚︎ Timezone: Asia/Seoul
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6939%20lines%20of%20code-blue)
@@ -80,7 +80,7 @@ Windows                  9 hrs 36 mins       ███████████�
 
  Last Updated on 15/11/2021
 <!--END_SECTION:waka-->
-</div>
+
 
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
