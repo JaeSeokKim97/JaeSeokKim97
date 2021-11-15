@@ -38,7 +38,7 @@
      <img alt="Visual Studio" src ="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=white"/>
      <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
   </p>  
-  
+<  
 ⌚︎ Timezone: Asia/Seoul
 
 <!--START_SECTION:waka-->
@@ -83,7 +83,7 @@ Windows                  9 hrs 36 mins       ███████████�
 
  Last Updated on 15/11/2021
 <!--END_SECTION:waka-->
-
+</div>
 
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
