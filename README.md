@@ -38,11 +38,10 @@
      <img alt="Visual Studio" src ="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=white"/>
      <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
   </p>  
-<  
+
 ⌚︎ Timezone: Asia/Seoul
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-4656%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -79,7 +78,6 @@ Visual Studio            0 secs              ░░░░░░░░░░░�
 Windows                  9 hrs 36 mins       █████████████████████████   100.0%
 
 ```
-
 
  Last Updated on 15/11/2021
 <!--END_SECTION:waka-->
