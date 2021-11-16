@@ -39,11 +39,11 @@
      <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
   </p>  
 
-</div>
+
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6939%20lines%20of%20code-blue)
-
+</div>
 **I'm a Night 🦉** 
 
 ```text
